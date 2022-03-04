@@ -75,7 +75,7 @@ function keyPressed() {
 
 		//  Matter.Body.setStatic(packageBody,true);
 		//  Matter.Body.setStatic(false);
-		//  Matter.Body.setStatic(packageBody,false);
+		  Matter.Body.setStatic(packageBody,false);
 		//  Matter.Body.setStatic(packageBody);
 
 	}
